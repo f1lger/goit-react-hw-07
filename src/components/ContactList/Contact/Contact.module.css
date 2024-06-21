@@ -1,0 +1,15 @@
+.contactItem {
+  display: flex;
+  justify-content: space-between;
+  gap: 10px;
+  padding: 10px;
+  border: 1px solid #fff;
+  border-radius: 10px;
+  list-style-type: none;
+}
+
+.contactInfo {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+}
